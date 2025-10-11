@@ -2,7 +2,7 @@
 
 ### Data Scientist and Game Dev Hobbyist
 
-<div align="center">
+<div align="center" display="flex">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
