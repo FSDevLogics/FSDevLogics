@@ -1,6 +1,6 @@
 <h1 align="center">Fernando Sousa</h1>
 
-<div align="center"> # Data Scientist and Game Dev Hobbyist </div>
+<div align="center"> Data Scientist and Game Dev Hobbyist </div>
 
 ### 
 
@@ -9,7 +9,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo"  />
+  <img src="https://skillicons.dev/icons?i=pd" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=np" height="60" alt="numpy logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
