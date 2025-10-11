@@ -9,10 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pd" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=np" height="60" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
