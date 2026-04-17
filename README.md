@@ -1,6 +1,6 @@
 <h1 align="center">Fernando Sousa</h1>
 
-<div align="center"> Data Scientist and Game Dev Hobbyist </div>
+<--!<div align="center"> Data Scientist and Game Dev Hobbyist </div>-->
 
 ### 
 
